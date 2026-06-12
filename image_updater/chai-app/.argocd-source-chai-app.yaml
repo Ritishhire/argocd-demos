@@ -1,3 +1,3 @@
 kustomize:
   images:
-  - ritishhire/chai-devops:v1.0.0
+  - ritishhire/chai-devops:v1.0.3
